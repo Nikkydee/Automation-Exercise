@@ -26,7 +26,7 @@ To get a local copy of the program running, follow these simple steps
 
 ### Setup
 - Open a command line terminal (Git bash preferrably) and navigate to a directory where you would like to save the work folder using cd.
-- Clone the repository with git clone https://github.com/Nikkydee/AutomationExercise.git
+- Clone the repository with git clone https://github.com/Nikkydee/Automation-Exercise.git
 - To get the current working tree, git fetch --all, then checkout to "main" branch.
 - Finally, open the project in your preferred IDE and wait for maven to download all project dependencies
     - navigate to the root directory and locate ``Assignment.xml`` file. Open, right-click anywhere within the file and select `Run`
@@ -53,7 +53,7 @@ Contributions, issues, and feature requests are welcome!
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-- Shout out to [Onafrik](https://onafriq.com/) for the opportunity
+- Shout out to [Onafriq](https://onafriq.com/) for the opportunity
 
 ## 📝 License
 
